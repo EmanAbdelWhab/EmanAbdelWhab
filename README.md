@@ -11,7 +11,6 @@
   <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" float: right;">
 </div>
 
-## 🚀 About Me
 - 👨‍💻 I'm Artifial Intellgince Engineer
 - 🎓 Graduated from computer science Mansoura University 
 - 🏢 I’m currently working on AICO

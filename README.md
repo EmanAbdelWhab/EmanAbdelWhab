@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Artifial%20Intelligence%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 <div style="height: 300px;"> <!-- Set a height for the container -->
-  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" float: right;">
+  <img width="240" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" float: right;">
 </div>
 
 - 👨‍💻 I'm Artifial Intellgince Engineer

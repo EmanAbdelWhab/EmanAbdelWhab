@@ -11,7 +11,7 @@
   <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" float: right;">
 </div>
 
-
+## 🚀 About Me
 - 👨‍💻 I'm Artifial Intellgince Engineer
 - 🎓 Graduated from computer science Mansoura University 
 - 🏢 I’m currently working on AICO
@@ -19,7 +19,7 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
-## Contact Me
+## 🔗 Contact Me
 
 <p align="center">
  <!-- <a href="[Link to Your Portfolio Website]"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-9cf"></a> -->

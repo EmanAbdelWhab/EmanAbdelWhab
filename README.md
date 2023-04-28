@@ -26,6 +26,5 @@
  <!-- <a href="[Link to Your Portfolio Website]"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-9cf"></a> -->
   <a href="https://www.linkedin.com/in/eman-abdelwhab-63417a17a/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue"></a>
   <a href="https://twitter.com/EmanAbdelwhab_?t=YdGi0IKcoL3G-wRm9ysJOA&s=08"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1da1f2"></a>
-  <a href="ea6677342@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red"></a>
+  <a href="mailto:ea6677342@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red"></a>
 </p>
-

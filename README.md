@@ -1,35 +1,28 @@
+# Hi there, I'm Eman! 👋
+
+## 🚀 About Me
+
+🔹 **Database Adminstartor & Data Scientist**  
+🔹 **Oracle DBA at ICT Misr**  
+🔹 **OCI Generative AI Certified**  
+🔹 **B.Sc. in Computer Science from Mansoura University**  
 
 
-<h3 align="center">
-  Hi there, I'm Eman!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Artifial%20Intelligence%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-<div style="height: 300px;"> <!-- Set a height for the container -->
-  <img width="240" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" float: right;">
-</div>
+## 💡 What I Do
 
-- 👨‍💻 I'm Artifial Intellgince Engineer
-- 🎓 Graduated from computer science Mansoura University 
-- 🏢 I’m currently working on AICO
-- 🤔 I’m interested in DeepLearning and computer vision , I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- **Database Management:** Expertise in Oracle RAC, Data Guard, and SQL Server administration.
+- **AI & Data Science:** Applying machine learning and AI solutions to solve real-world problems.
 
 
-## 🔗 Contact Me
+## 📫 Connect with Me
 
-<p align="center">
- <!-- <a href="[Link to Your Portfolio Website]"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-9cf"></a> -->
-  <a href="https://www.linkedin.com/in/eman-abdelwhab-63417a17a/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue"></a>
-  <a href="https://twitter.com/EmanAbdelwhab_?t=YdGi0IKcoL3G-wRm9ysJOA&s=08"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1da1f2"></a>
-  <a href="mailto:ea6677342@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red"></a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/eman-abdelwhab-/)  
+- [Portfolio](https://eman-abdelwhab-portfolio-r91cr71.gamma.site/)  
+- Email: emanabdelwhabgaber@gmail.com
 
-<br>
-<!--
-<a href="https://komarev.com/ghpvc/?username=EmanAbdelWhab&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=EmanAbdelWhab&style=for-the-badge">
-</a>
--->
+---
+
+*Always eager to learn, innovate, and transform data into impactful solutions!*
+
+✨ **Let's build something amazing together!**
+
